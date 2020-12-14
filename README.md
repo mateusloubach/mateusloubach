@@ -20,12 +20,16 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/mateusloubach/mateusloubach/blob/main/index3.gif" width="477px">
+</p>
+
+<p align="center">
   <a href="https://www.behance.net/mateusloubach" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="mateusloubach" height="20" width="20" /></a>  
   <a href="https://dribbble.com/mateuscesar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="mateusloubach" height="20" width="20" /></a>  
   <a href="https://www.linkedin.com/in/mateusloubach/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mateusloubach" height="20" width="20" /></a>  
   <a href="https://stackoverflow.com/users/11948374/mateus-loubach" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mateusloubach" height="20" width="20" /></a>  
   <a href="https://codepen.io/mateusceasar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mateusloubach" height="20" width="20" /></a>  
-  <a href="https://www.instagram.com/mt_lbach" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mateusloubach" height="20" width="20" /></a>  _   
+  <a href="https://www.instagram.com/mt_lbach" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mateusloubach" height="20" width="20" /></a>    
 </p>
 
 <!-- MY GITHUB STATS -->
@@ -40,14 +44,10 @@
 <p align="center">
  "Talent hits a target no one else can hit; Genius hits a target no one else can see"
 <br>
-*Arthur Shopenhauer* <br>
+― Arthur Shopenhauer <br>
  <a href="https://www.buymeacoffee.com/mateusloubach" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" alt="mateusloubach" height="20" width="20" /></a>
   </p>
 <br>
-
-<p align="center">
-  <img src="https://github.com/mateusloubach/mateusloubach/blob/main/index3.gif" width="755px">
-</p>
 
 <!-- SOCIAL MEDIAS -->
 <p align="center">
