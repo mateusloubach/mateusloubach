@@ -61,4 +61,4 @@
 
 - [![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can make one-time donations via PayPal. I'll probably buy a coffee. :coffee:
 
-<h3>Thanks :heart:
+<h3 align="right">Thanks :heart:
