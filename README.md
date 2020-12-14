@@ -3,7 +3,7 @@
   <samp>
     👋 Hello World! I'm a Web Developer.
   </samp>  
-</p>
+</h3>
 <br>
 
 <!-- ABOUT ME -->
@@ -46,7 +46,7 @@
 <br>
 
 <p align="center">
-  <img src="./.github/index3.gif" width="px">
+  <img src="https://github.com/mateusloubach/mateusloubach/blob/main/index3.gif" width="755px">
 </p>
 
 <!-- SOCIAL MEDIAS -->
