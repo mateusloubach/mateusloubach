@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://github.com/mateusloubach/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusloubach&show_icons=true&theme=vue&hide=stars,contribs" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusloubach&show_icons=true&theme=vue&hide=prs,contribs" /></a>
 </p>
 
 <!-- QUOTE -->
