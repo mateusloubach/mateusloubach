@@ -1,15 +1,16 @@
+# Mateus Loubach
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn%20-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusloubach/)](https://www.linkedin.com/in/mateusloubach/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-ff5e5b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mcesarloubach@gmail.com)](mailto:mcesarloubach@gmail.com)
+[![Behance Badge](https://img.shields.io/badge/Behance-0088cc?style=flat-square&logo=Behance&link=https://www.behance.net/mateusloubach)](https://www.behance.net/mateusloubach)
+
 <!-- HEADER -->
 <h3 align="center">
-  <samp>
-    👋 Hello World! I'm a Web Developer.
-  </samp>  
+    👋 Hello World! Welcome to my GitHub!
 </h3>
-<br>
 
 <!-- ABOUT ME -->
 <p align="center" style="text-align: center;">
-  Welcome to my GitHub! 
-  I'm currently studying 
+  I'm currently studying
   <a href="https://nodejs.org/en/">NodeJS</a>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
   , <a href="https://pt-br.reactjs.org/">ReactJS</a>
@@ -19,10 +20,28 @@
   <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>  
 </p>
 
-<p align="center">
-  <img src="https://github.com/mateusloubach/mateusloubach/blob/main/index3.gif" width="477px">
-</p>
+## :trophy: Achievements:
 
+- **IronHack Sims Scholarship Winner!**   *sponsored by* <a href="https://www.ea.com/">Electronic Arts </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Electronic-Arts-Logo.svg" alt="nodejs" width="20" height="20"/> in January 2020.<br>
+
+- **Sillicon Valley Web Conference A.I. Course Winner!**   *sponsored by* <a href="https://www.startse.com/">.StarSe </a>
+  <img src="https://login.startse.com/img/startse-logo.svg" alt="nodejs" width="120" height="20"/> in January 2020.<br>
+
+- **Adobe XD: UX Week Bootcamp!**         *sponsored by* <a href="https://www.adobe.com/">Adobe </a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobexd.svg" alt="nodejs" width="20" height="20"/> in February 2020.
+
+## :ticket: Events:
+<h4> :heavy_check_mark: Past Events: </h4>
+
+- **Next Level Week**  <a href="https://rocketseat.com.br/">@Rocketseat</a>:rocket:; by: Diego Fernandes
+  - **NLW #**:one:: De 01 a 07 de Junho. *"eColeta"* Project
+  - **NLW #**:two:: De 04 a 08 de Agosto. *"Proffy"* Project
+  - **NLW #**:three:: De 12 a 16 de Outubro. *"hAppy"* Project
+  <br>
+- **UI Design: Curso Intensivo de Figma** <a href="https://www.ironhack.com/br/sao-paulo">@IronHack </a><img src="https://cdn.worldvectorlogo.com/logos/ironhack-1.svg" alt="IronHack" width="30" height="20" />;
+
+<!-- SOCIAL MEDIA -->
 <p align="center">
   <a href="https://www.behance.net/mateusloubach" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="mateusloubach" height="20" width="20" /></a>  
   <a href="https://dribbble.com/mateuscesar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="mateusloubach" height="20" width="20" /></a>  
@@ -42,7 +61,7 @@
 <!-- QUOTE -->
 <br>
 <p align="center">
- "Talent hits a target no one else can hit; Genius hits a target no one else can see"
+"Talent hits a target no one else can hit; Genius hits a target no one else can see"
 <br>
 ― Arthur Shopenhauer <br>
  <a href="https://www.buymeacoffee.com/mateusloubach" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" alt="mateusloubach" height="20" width="20" /></a>
@@ -59,6 +78,6 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 </p>
 
-- [![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can make one-time donations via PayPal. I'll probably buy a coffee. :coffee:
+[![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can make one-time donations via PayPal. I'll probably buy a coffee. :coffee:
 
 <h3 align="right">Thanks :heart:
