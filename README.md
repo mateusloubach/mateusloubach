@@ -87,4 +87,5 @@ I :heart: **Front-End Development**, :art: **Ui & Ux Design**, slowly integratin
 [![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can support me by making a one-time donation via PayPal. I'll probably buy a coffee :coffee: to make me work faster.
 
 <h3 align="right">Thanks :heart:
+    
 Made by [Mateus Loubach](https://github.com/mateusloubach)
