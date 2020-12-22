@@ -91,4 +91,4 @@ I :heart: **Front-End Development**, :art: **Ui & Ux Design**, slowly integratin
     
 Made by [Mateus Loubach](https://github.com/mateusloubach)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=ffdc80)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=ffdc80)-->
