@@ -1,8 +1,9 @@
-# Mateus Loubach
+# Mateus Cesar Loubach
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn%20-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusloubach/)](https://www.linkedin.com/in/mateusloubach/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ff5e5b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mcesarloubach@gmail.com)](mailto:mcesarloubach@gmail.com)
 [![Behance Badge](https://img.shields.io/badge/Behance-0088cc?style=flat-square&logo=Behance&link=https://www.behance.net/mateusloubach)](https://www.behance.net/mateusloubach)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram%20-ffdc80?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/mt_lbach/)](https://www.instagram.com/mt_lbach/) 
+![Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=05ffa1)
 
 <img align='right' width=320 src="https://brtechnosoft.com/wp-content/uploads/2019/08/Hiring-manage.gif">
 <!-- HEADER -->
