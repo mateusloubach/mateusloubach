@@ -35,11 +35,15 @@
 <h4> :heavy_check_mark: Past Events: </h4>
 
 - **Next Level Week**  <a href="https://rocketseat.com.br/">@Rocketseat</a>:rocket:; by: Diego Fernandes
-  - **NLW #**:one:: De 01 a 07 de Junho. *"eColeta"* Project
-  - **NLW #**:two:: De 04 a 08 de Agosto. *"Proffy"* Project
-  - **NLW #**:three:: De 12 a 16 de Outubro. *"hAppy"* Project
+  - :recycle: eColeta - é um app que conecta entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar 
+  seus resíduos de maneira ecológica.
+  Projeto desenvolvido durante a **NLW #1** de *01 a 07 de Junho*, oferecida pela Rocketseat.
+  - :books: Proffy - é uma aplicação web cujo objetivo é conectar pessoas que querem dar aulas particulares à pessoas que precisam delas. 
+  Projeto desenvolvido durante a **NLW #2** de *04 a 08 de Agosto*.
+  - :smiley: hAppy - Este projeto tem como objetivo conectar pessoas a orfanatos, trazendo felicidade para crianças de toda a região. Projeto desenvolvido durante a **NLW #3** de *12 a 16 de Outubro*.
   <br>
 - **UI Design: Curso Intensivo de Figma** <a href="https://www.ironhack.com/br/sao-paulo">@IronHack </a><img src="https://cdn.worldvectorlogo.com/logos/ironhack-1.svg" alt="IronHack" width="30" height="20" />;
+    - Realizado pela IronHack com orientação completa sobre Figma, um editor gráfico de vetor e prototipagem de projetos de design.
 
 <!-- SOCIAL MEDIA -->
 <p align="center">
