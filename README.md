@@ -8,7 +8,7 @@
 <img align='right' width=320 src="https://brtechnosoft.com/wp-content/uploads/2019/08/Hiring-manage.gif">
 <!-- HEADER -->
 <h3 align="center">
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px"> Hello World! <br>Welcome to my GitHub!
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello World! <br>Welcome to my GitHub!
 </h3>
 
 <!-- ABOUT ME -->
