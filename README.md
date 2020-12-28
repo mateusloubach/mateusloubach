@@ -32,7 +32,7 @@ I :heart: **Front-End Development**, :art: **Ui & Ux Design**, slowly integratin
 ## :ticket: Events:
 <h4> :heavy_check_mark: Past Events: </h4>
 
-- **Next Level Week**  <a href="https://rocketseat.com.br/">@Rocketseat</a>:rocket: by: Diego Fernandes
+- **Next Level Week**  <a href="https://rocketseat.com.br/">@Rocketseat</a> :rocket:
   - :recycle: **eColeta** - é um app que conecta entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar 
   seus resíduos de maneira ecológica.
   Projeto desenvolvido durante a **NLW #1** de *01 a 07 de Junho*.
