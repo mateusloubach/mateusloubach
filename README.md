@@ -12,7 +12,7 @@
 </h3>
 
 <!-- ABOUT ME -->
-- **Full-Stack** Developer, **Systems Engineering** student, and **Tech Enthusiast!** <br>
+- **Full-Stack** Developer, **Software Engineering** student, and **Tech Enthusiast!** <br>
 I :heart: **Front-End Development**, :art: **Ui & Ux Design**, slowly integrating Dev Communities, :musical_note: **music** and :coffee: **coffee!**
 
   - :man_technologist: **I'm Working with** **[TypeScript](https://www.typescriptlang.org/)** and **[React](https://reactjs.org/)**
