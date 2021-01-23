@@ -40,6 +40,13 @@ I :heart: **Front-End Development**, :art: **Ui & Ux Design**, slowly integratin
   Projeto desenvolvido durante a **NLW #2** de *04 a 08 de Agosto*.
   - :smiley: **hAppy** - Este projeto tem como objetivo conectar pessoas a orfanatos, trazendo felicidade para crianças de toda a região. Projeto desenvolvido durante a **NLW #3** de *12 a 16 de Outubro*.
   <br>
+  
+- **Motion Designer: Intro to 2-D Animation** <a href="https://saga.art.br/">@Saga </a><img src="https://mir-s3-cdn-cf.behance.net/user/276/a1d5ee91532507.59a1e25807c97.jpg" alt="SAGA" width="30" height="30" />;
+    - Realizado pela Escola SAGA com orientação completa sobre _After Effects_, um editor gráfico de vetor e prototipagem de projetos de animações.
+    
+- **Intro to UX/UI Design** <a href="https://www.ironhack.com/br/sao-paulo">@IronHack </a><img src="https://cdn.worldvectorlogo.com/logos/ironhack-1.svg" alt="IronHack" width="30" height="20" />;
+    - Realizado pela IronHack com ensino e "pathtracking" sobre a carreira de um Designer UX/Ui, suas ferramentas e prototipagem de projetos de design.
+    
 - **UI Design: Curso Intensivo de Figma** <a href="https://www.ironhack.com/br/sao-paulo">@IronHack </a><img src="https://cdn.worldvectorlogo.com/logos/ironhack-1.svg" alt="IronHack" width="30" height="20" />;
     - Realizado pela IronHack com orientação completa sobre Figma, um editor gráfico de vetor e prototipagem de projetos de design.
 
