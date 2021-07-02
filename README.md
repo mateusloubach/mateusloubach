@@ -48,6 +48,12 @@ I :heart: **Front-End Development**, :art: **Ui & Ux Design**, Dev Communities, 
 - **UI Design: Curso Intensivo de Figma** <a href="https://www.ironhack.com/br/sao-paulo">@IronHack </a><img src="https://cdn.worldvectorlogo.com/logos/ironhack-1.svg" alt="IronHack" width="30" height="20" />;
     - Realizado pela IronHack com orientação completa sobre Figma, um editor gráfico de vetor e prototipagem de projetos de design.
 
+## :file_folder: Projects:
+<h4> :construction: Currently not finished: </h4>
+
+[![Netlify Badge](https://img.shields.io/badge/-FootBallDB%20-0a66c2?style=flat-square&logo=Netlify&logoColor=white&link=https://apostafutebol.netlify.app/)](https://apostafutebol.netlify.app/)
+
+
 <!-- SOCIAL MEDIA -->
 <p align="center"> 
   <a href="https://dribbble.com/mateuscesar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="mateusloubach" height="20" width="20" /></a>   
