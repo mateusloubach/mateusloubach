@@ -23,7 +23,7 @@ I :heart: **Front-End Development**, :art: **Ui & Ux Design**, Dev Communities, 
 - **IronHack Sims Scholarship Winner!**   *sponsored by* <a href="https://www.ea.com/">Electronic Arts </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Electronic-Arts-Logo.svg" alt="EA" width="20" height="20"/> in **Jan** 2020.<br>
 
-- **Sillicon Valley Web Conference A.I. Course Winner!**   *sponsored by* <a href="https://www.startse.com/">.StarSe </a>
+- **Sillicon Valley WCo "Artificial Inteligence" Course Winner!**   *sponsored by* <a href="https://www.startse.com/">.StarSe </a>
   <img src="https://login.startse.com/img/startse-logo.svg" alt=".StartSe" width="120" height="20"/> in **Jan** 2020.<br>
 
 - **Adobe XD: UX Week Bootcamp!**         *sponsored by* <a href="https://www.adobe.com/">Adobe </a>
