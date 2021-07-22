@@ -17,6 +17,12 @@ I :heart: **Front-End Development**, :art: **Ui & Ux Design**, Dev Communities, 
 
   - :man_technologist: **I'm Working with** **[TypeScript](https://www.typescriptlang.org/)** and **[React](https://reactjs.org/)**
   - :seedling: **I'm Learning** **UI Design** using **[Figma](https://www.figma.com/)**, **[Adobe XD](https://www.adobe.com/br/products/xd/features.html)** and **[React Native](https://reactnative.dev/)**
+  - 
+<p align="center">
+  <a href="https://github.com/mateusloubach/vanillatilt/commits/master">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/mateusloubach/mateusloubach">
+  </a>
+</p>
 
 ## :trophy: Achievements:
 
