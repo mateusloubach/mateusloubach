@@ -15,7 +15,7 @@
 - **Front-End** Developer, **Software Engineering** student, and **Tech Enthusiast!** <br>
 I :heart: **Front-End Development**, :art: **Ui & Ux Design**, Dev Communities, :musical_note: **music** and :coffee: **coffee!**
 
-  - :man_technologist: **I'm Working with** **[TypeScript](https://www.typescriptlang.org/)** and **[React](https://reactjs.org/)**
+  - :man_technologist: **I'm Working with** **[TypeScript](https://www.typescriptlang.org/)** **, [React](https://reactjs.org/), [PHP](https://www.php.net/)** and **[Laravel](https://laravel.com/)**
   - :seedling: **I'm Learning** **UI Design** using **[Figma](https://www.figma.com/)**, **[Adobe XD](https://www.adobe.com/br/products/xd/features.html)** and **[React Native](https://reactnative.dev/)**
  
 <p align="center">
