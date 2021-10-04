@@ -5,7 +5,9 @@
 ![Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=00d27f&label=Visitors)
 <!--[![Behance Badge](https://img.shields.io/badge/Behance-0088cc?style=flat-square&logo=Behance&link=https://www.behance.net/mateusloubach)](https://www.behance.net/mateusloubach)-->
 
-<img align='right' width=320 src="https://brtechnosoft.com/wp-content/uploads/2019/08/Hiring-manage.gif">
+<!-- backup img: https://brtechnosoft.com/wp-content/uploads/2019/08/Hiring-manage.gif -->
+<img align='right' width=320 src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+
 <!-- HEADER -->
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello World! <br>Welcome to my GitHub!
