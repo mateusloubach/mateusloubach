@@ -90,12 +90,8 @@ I :heart: **Front-End Development**, :art: **Ui & Ux Design**, Dev Communities, 
 <code><img alt="React / React Native" title="React / React Native" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img alt="Redux" title="Redux" height="20" src="https://user-images.githubusercontent.com/38081852/87548846-7427c400-c683-11ea-8d14-f629b938577d.png"></code>
 <code><img alt="NodeJS" title="NodeJS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img alt="ExpressJS" title="ExpressJS" height="20" src="https://user-images.githubusercontent.com/38081852/87337501-eaa8b280-c519-11ea-8cdb-1af554f15374.png"></code>
-<code><img alt="GatsbyJS" title="GatsbyJS" height="20" src="https://user-images.githubusercontent.com/38081852/87337700-3f4c2d80-c51a-11ea-9bef-5cab8fabcb42.png"></code>
 <code><img alt="Figma" title="Figma" height="25" src="https://user-images.githubusercontent.com/38081852/87336309-03b06400-c518-11ea-9981-8b0b7c9d5ca8.png"></code>
 <code><img alt="Visual Studio Code" title="Visual Studio Code" height="25" src="https://user-images.githubusercontent.com/38081852/87336793-cbf5ec00-c518-11ea-960c-d6ff6aa1b177.png"></code>
-<code><img alt="Insomnia" title="Insomnia" height="25" src="https://user-images.githubusercontent.com/38081852/87548811-6a05c580-c683-11ea-99ad-465f97fc0e60.png"></code>
-<code><img alt="Docker" title="Docker" height="25" src="https://user-images.githubusercontent.com/38081852/87548752-565a5f00-c683-11ea-98bc-466626e09af8.png"></code>
 </p>
 
 [![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can support me by making a one-time donation via PayPal. I'll probably buy a coffee :coffee: to make me work faster.
