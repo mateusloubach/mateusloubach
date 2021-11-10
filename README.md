@@ -14,11 +14,14 @@
 </h3>
 
 <!-- ABOUT ME -->
-- **Front-End** Developer, **Software Engineering** student, and **Tech Enthusiast!** <br>
-I :heart: **Front-End Development**, :art: **Ui & Ux Design**, Dev Communities, :musical_note: **music** and :coffee: **coffee!**
+- **Full-Stack** Developer, **Software Engineering** student, and **Tech Enthusiast!** <br>
+**I** :heart: **Coding**, :art: **Design**, Dev Communities, :musical_note: **music** and :coffee: **coffee!**
 
-  - :man_technologist: **I'm Working with** **[TypeScript](https://www.typescriptlang.org/)** **, [React](https://reactjs.org/), [PHP](https://www.php.net/)** and **[Laravel](https://laravel.com/)**
-  - :seedling: **I'm Learning** **UI Design** using **[Figma](https://www.figma.com/)**, **[Adobe XD](https://www.adobe.com/br/products/xd/features.html)** and **[React Native](https://reactnative.dev/)**
+  - :man_technologist: **I'm Working with** **[TypeScript](https://www.typescriptlang.org/)** **, [React](https://reactjs.org/),** and **[Laravel](https://laravel.com/)**
+  - :seedling: **I'm Learning** **[NextJs](https://nextjs.org/)**, **[Docker](https://www.docker.com/)**, and **[Laravel](https://laravel.com/)**
+  - :label: `.react`, `.html`, `.css`, `.js`, `.ts`
+  - 🤝 I'm looking to collaborate on **Open Source** and/or **Visual** projects.
+  - .:round_pushpin:. .**São Paulo** :brazil:
  
 <p align="center">
   <a href="https://github.com/mateusloubach/mateusloubach/commits/main">
@@ -37,62 +40,6 @@ I :heart: **Front-End Development**, :art: **Ui & Ux Design**, Dev Communities, 
 - **Adobe XD: UX Week Bootcamp!**         *sponsored by* <a href="https://www.adobe.com/">Adobe </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png" alt="AdobeXD" width="20" height="20"/> in **Feb** 2020.
 
-## :ticket: Events:
-<h4> :heavy_check_mark: Past Events: </h4>
-
-- **Next Level Week**  <a href="https://rocketseat.com.br/">@Rocketseat</a> :rocket:
-  - :recycle: **eColeta** - é um app que conecta entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar 
-  seus resíduos de maneira ecológica.
-  Projeto desenvolvido durante a **NLW #1** de *01 a 07 de Junho*.
-  - :mortar_board: **Proffy** - é uma aplicação web cujo objetivo é conectar pessoas que querem dar aulas particulares à pessoas que precisam delas. 
-  Projeto desenvolvido durante a **NLW #2** de *04 a 08 de Agosto*.
-  - :smiley: **hAppy** - Este projeto tem como objetivo conectar pessoas a orfanatos, trazendo felicidade para crianças de toda a região. Projeto desenvolvido durante a **NLW #3** de *12 a 16 de Outubro*.
-  <br>
-  
-
-## :file_folder: Projects:
-<h4> :construction: Currently not finished: </h4>
-
-[![Netlify Badge](https://img.shields.io/badge/-FootBallDB%20-0a66c2?style=flat-square&logo=Netlify&logoColor=white&link=https://apostafutebol.netlify.app/)](https://apostafutebol.netlify.app/)
-
-
-<!-- SOCIAL MEDIA -->
-<p align="center"> 
-  <a href="https://dribbble.com/mateuscesar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="mateusloubach" height="20" width="20" /></a>   
-  <a href="https://stackoverflow.com/users/11948374/mateus-loubach" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mateusloubach" height="20" width="20" /></a>  
-  <a href="https://codepen.io/mateusceasar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mateusloubach" height="20" width="20" /></a>     
-</p>
-
-<!-- MY GITHUB STATS -->
-
-<p align="center">
-  <a href="https://github.com/mateusloubach/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusloubach&show_icons=true&theme=vue&hide=prs,contribs" /></a>
-</p>
-
-<!-- QUOTE -->
-<br>
-
-*<p align="center"> 
-"Talent hits a target no one else can hit; Genius hits a target no one else can see"*
-<br>
-― Arthur Shopenhauer
-</p>
-
-<!-- SOCIAL MEDIAS -->
-## :computer: Languages, Technologies & Tools
-
-<p align="center">
-<code><img alt="JavaScript" title="JavScript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img alt="TypeScript" title="TypeScript" height="20" src="https://user-images.githubusercontent.com/38081852/87239831-f8f7b100-c3e9-11ea-92df-5d7c8c4458d2.png"></code>
-<code><img alt="CSS" title="CSS" height="24" src="https://user-images.githubusercontent.com/38081852/87240029-0f067100-c3ec-11ea-8075-74e821ece9c0.png"></code>
-<code><img alt="HTML" title="HTML" height="24" src="https://user-images.githubusercontent.com/38081852/87240030-0f9f0780-c3ec-11ea-8370-829ea755b6e9.png"></code>
-<code><img alt="React / React Native" title="React / React Native" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img alt="Redux" title="Redux" height="20" src="https://user-images.githubusercontent.com/38081852/87548846-7427c400-c683-11ea-8d14-f629b938577d.png"></code>
-<code><img alt="NodeJS" title="NodeJS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img alt="Figma" title="Figma" height="25" src="https://user-images.githubusercontent.com/38081852/87336309-03b06400-c518-11ea-9981-8b0b7c9d5ca8.png"></code>
-<code><img alt="Visual Studio Code" title="Visual Studio Code" height="25" src="https://user-images.githubusercontent.com/38081852/87336793-cbf5ec00-c518-11ea-960c-d6ff6aa1b177.png"></code>
-</p>
 
 [![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can support me by making a one-time donation via PayPal. I'll probably buy a coffee :coffee: to make me work faster.
 
