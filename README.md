@@ -4,6 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram%20-ffdc80?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/mt_lbach/)](https://www.instagram.com/mt_lbach/) 
 ![Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=00d27f&label=Visitors)
 <!--[![Behance Badge](https://img.shields.io/badge/Behance-0088cc?style=flat-square&logo=Behance&link=https://www.behance.net/mateusloubach)](https://www.behance.net/mateusloubach)-->
+<!-- <a href="https://www.linkedin.com/in/mateusloubach/"><img alt="Mateus Loubach" src="https://img.shields.io/badge/-mateusloubach-8257E5?style=flat&logo=Linkedin&logoColor=white" /></a> -->
 
 <!-- backup img: https://brtechnosoft.com/wp-content/uploads/2019/08/Hiring-manage.gif -->
 <img align='right' width=320 src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
