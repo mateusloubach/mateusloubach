@@ -18,9 +18,9 @@
 - **Full-Stack** Developer, **Software Engineering** student, and **Tech Enthusiast!** <br>
 **I** :heart: **Coding**, :art: **Design**, Dev Communities, :musical_note: **music** and :coffee: **coffee!**
 
-  - :man_technologist: **I'm Working with** **[TypeScript](https://www.typescriptlang.org/)** **, [React](https://reactjs.org/),** and **[Laravel](https://laravel.com/)**
-  - :seedling: **I'm Learning** **[NextJs](https://nextjs.org/)**, **[Docker](https://www.docker.com/)**, and **[Laravel](https://laravel.com/)**
-  - :label: `.react`, `.html`, `.css`, `.js`, `.ts`
+  - :man_technologist: **I'm Working with** **[ReactJs](https://reactjs.org/)** **, [Javascript](https://www.javascript.com/),** and **[Typescript](https://www.typescriptlang.org/)**
+  - :seedling: **I'm Learning** **[NextJs](https://nextjs.org/),** **[PHP](https://www.php.net/),** and **[Laravel](https://laravel.com/)**
+  - :label: `.react`, `.js`, `.ts`, `.css`, `.html`
   - 🤝 I'm looking to collaborate on **Open Source** and/or **Visual** projects.
   - .:round_pushpin:. .**São Paulo** :brazil:
  
