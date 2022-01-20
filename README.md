@@ -19,10 +19,10 @@
 **I** :heart: **Coding**, :art: **Design**, Dev Communities, :musical_note: **music** and :coffee: **coffee!**
 
   - :man_technologist: **I'm Working with** **[ReactJs](https://reactjs.org/)** **, [Javascript](https://www.javascript.com/),** and **[Typescript](https://www.typescriptlang.org/)**
-  - :seedling: **I'm Learning** **[NextJs](https://nextjs.org/),** **[PHP](https://www.php.net/),** and **[Laravel](https://laravel.com/)**
+  - :seedling: **I'm Learning** **[C#](https://docs.microsoft.com/en-us/dotnet/csharp/),** **[.Net Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0),** and **[.Net MVC5]( https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)**
   - :label: `.react`, `.js`, `.ts`, `.css`, `.html`
   - 🤝 I'm looking to collaborate on **Open Source** and/or **Visual** projects.
-  - .:round_pushpin:. .**São Paulo** :brazil:
+  - .:round_pushpin:. .**Belo Horizonte** :brazil:
  
 <p align="center">
   <a href="https://github.com/mateusloubach/mateusloubach/commits/main">
