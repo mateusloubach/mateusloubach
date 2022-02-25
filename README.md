@@ -20,7 +20,7 @@
 
   - :man_technologist: **I'm Working with** **[ReactJs](https://reactjs.org/),** **[C#](https://docs.microsoft.com/en-us/dotnet/csharp/),** and **[.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)**
   - :seedling: **I'm Learning** **[C#](https://docs.microsoft.com/en-us/dotnet/csharp/),** **[.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0),** and **[.Net MVC5]( https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)**
-  - :label: `.react`, `.js`, `.ts`, `.NET technologies`, `.html`
+  - :label: `.react`, `.c#`, `.js`, `.ts`, `.NET`, `.html`
   - 🤝 I'm looking to collaborate on **Open Source** and/or **Visual** projects.
   - .:round_pushpin:. .**Belo Horizonte** :brazil:
  
