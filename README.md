@@ -22,7 +22,7 @@
   - :seedling: **I'm Learning** **[C#](https://docs.microsoft.com/en-us/dotnet/csharp/),** **[.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0),** and **[.Net MVC5]( https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)**
   - :label: `.react`, `.c#`, `.js`, `.ts`, `.NET`, `.html`
   - 🤝 I'm looking to collaborate on **Open Source** and/or **Visual** projects.
-  - .:round_pushpin:. .**Belo Horizonte** :brazil:
+  - :round_pushpin: **Belo Horizonte** :brazil:
  
 <p align="center">
   <a href="https://github.com/mateusloubach/mateusloubach/commits/main">
