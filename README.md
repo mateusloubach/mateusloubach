@@ -8,7 +8,7 @@
 
 <!-- back-up img: https://brtechnosoft.com/wp-content/uploads/2019/08/Hiring-manage.gif -->
 <!-- back-up img2: https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif -->
-<img align='right' width=380 src="https://websolutions593.com/wp-content/uploads/2022/05/diseno-web-local-ecuador.gif">
+<img align='right' width=420 src="https://websolutions593.com/wp-content/uploads/2022/05/diseno-web-local-ecuador.gif">
 
 <!-- HEADER -->
 <h3 align="center">
@@ -17,7 +17,7 @@
 
 <!-- ABOUT ME -->
 - **Full-Stack** Developer, **Software Engineering** student, and **Tech Enthusiast!** <br>
-**I** :heart: **Coding**, :art: **Design**, Dev Communities, :musical_note: **music** and :coffee: **coffee!**
+**I** :heart: **Coding**, :art: **Design**, :musical_note: **music** and :coffee: **coffee!**
 
   - :man_technologist: **I'm Working with** **[ReactJs](https://reactjs.org/),** **[C#](https://docs.microsoft.com/en-us/dotnet/csharp/),** and **[.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)**
   - :seedling: **I'm Learning** **[C#](https://docs.microsoft.com/en-us/dotnet/csharp/),** **[.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0),** and **[.Net MVC5]( https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)**
