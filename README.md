@@ -7,7 +7,7 @@
 <!-- <a href="https://www.linkedin.com/in/mateusloubach/"><img alt="Mateus Loubach" src="https://img.shields.io/badge/-mateusloubach-8257E5?style=flat&logo=Linkedin&logoColor=white" /></a> -->
 
 <!-- backup img: https://brtechnosoft.com/wp-content/uploads/2019/08/Hiring-manage.gif -->
-<img align='right' width=480 src="https://websolutions593.com/wp-content/uploads/2022/05/diseno-web-local-ecuador.gif">
+<img align='right' width=440 src="https://websolutions593.com/wp-content/uploads/2022/05/diseno-web-local-ecuador.gif">
 
 <!-- HEADER -->
 <h3 align="center">
