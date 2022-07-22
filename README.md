@@ -8,7 +8,7 @@
 
 <!-- back-up img: https://brtechnosoft.com/wp-content/uploads/2019/08/Hiring-manage.gif -->
 <!-- back-up img2: https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif -->
-<img align='right' width=400 src="https://websolutions593.com/wp-content/uploads/2022/05/diseno-web-local-ecuador.gif">
+<img align='right' width=380 src="https://websolutions593.com/wp-content/uploads/2022/05/diseno-web-local-ecuador.gif">
 
 <!-- HEADER -->
 <h3 align="center">
