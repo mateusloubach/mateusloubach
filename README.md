@@ -46,16 +46,19 @@
 - **Adobe XD: UX Week Bootcamp!** *sponsored by* <a href="https://www.adobe.com/">Adobe </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png" alt="AdobeXD" width="20" height="20"/> in **Feb** 2020
 
-
-[![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can support me by making a one-time donation via PayPal. I'll probably buy a coffee :coffee: to make me work faster.
-
-<!--![Profile Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=ffdc80)-->
+##
 
  <div align="center">
   <a href="https://github.com/mateusloubach">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusloubach&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusloubach&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
+
+[![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can support me by making a one-time donation via PayPal. I'll probably buy a coffee :coffee: to make me work faster.
+
+<!--![Profile Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=ffdc80)-->
+
+
 
 <h3 align="right">Thanks :heart:
     
