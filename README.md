@@ -54,7 +54,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusloubach&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 
-[![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can support me by making a one-time donation via PayPal. I'll probably buy a coffee :coffee: to make me work faster.
+[![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can support me by making a one-time donation via PayPal. I'll probably buy a coffee :coffee: to help me work faster.
 
 <!--![Profile Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=ffdc80)-->
 
