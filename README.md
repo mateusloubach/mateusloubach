@@ -51,11 +51,7 @@
 
 ##
 
- <div align="center">
-  <a href="https://github.com/mateusloubach">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=mateusloubach&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusloubach&layout=compact&langs_count=7&theme=graywhite"/>
-</div>
+
 
 [![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can support me by making a one-time donation via PayPal. I'll probably buy a coffee :coffee: to help me work faster.
 
