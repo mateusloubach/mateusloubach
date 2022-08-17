@@ -6,27 +6,21 @@
 <!--[![Behance Badge](https://img.shields.io/badge/Behance-0088cc?style=flat-square&logo=Behance&link=https://www.behance.net/mateusloubach)](https://www.behance.net/mateusloubach)-->
 <!-- <a href="https://www.linkedin.com/in/mateusloubach/"><img alt="Mateus Loubach" src="https://img.shields.io/badge/-mateusloubach-8257E5?style=flat&logo=Linkedin&logoColor=white" /></a> -->
 
-<!-- <a href="https://youtube.com/tgmarinho" target="_blank">
-     <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a> -->
-
-<!-- back-up img: https://brtechnosoft.com/wp-content/uploads/2019/08/Hiring-manage.gif -->
-<!-- back-up img2: https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif -->
 <img align='right' width=420 src="https://websolutions593.com/wp-content/uploads/2022/05/diseno-web-local-ecuador.gif">
 
 <!-- HEADER -->
 <h3 align="center">
-     Hello World! <br>Welcome to my GitHub!
+     Hello World!<br>Welcome to my GitHub!
 </h3>
 
 <!-- ABOUT ME -->
 - **Full-Stack** Developer, **Software Engineering** student, and **Tech Enthusiast!** <br>
-**I** :heart: **Coding**, :art: **Design**, :musical_note: **music** and :coffee: **coffee!**
+**I** :heart: **Coding**, :art: **Design**, :musical_note: **music** and :seedling: **Gardening!**
 
-  - :man_technologist: **I'm Working with** **[ReactJs](https://reactjs.org/),** **[C#](https://docs.microsoft.com/en-us/dotnet/csharp/),** and **[.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)**
-  - :seedling: **I'm Learning** **[C#](https://docs.microsoft.com/en-us/dotnet/csharp/),** **[.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0),** and **[.Net MVC5]( https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)**
+  - :man_technologist: **I'm Working with** [`reactJs`](https://reactjs.org/), [`typescript`](https://www.typescriptlang.org/), [`c#`](https://docs.microsoft.com/en-us/dotnet/csharp/), and [`.NET Core`](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
+  - :seedling: **I'm Learning** [`c#`](https://docs.microsoft.com/en-us/dotnet/csharp/), [`.NET Core`](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0), and [`.Net MVC5`]( https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)
+  - 🤝 I'm looking to collaborate on **open source** and/or **visual** projects.
   - :label: `.react`, `.c#`, `.js`, `.ts`, `.NET`, `.html`
-  - 🤝 I'm looking to collaborate on **Open Source** and/or **Visual** projects.
   - :round_pushpin: **Belo Horizonte** :brazil:
  
 <p align="center">
@@ -51,7 +45,11 @@
 
 ##
 
-
+ <div align="center">
+  <a href="https://github.com/mateusloubach">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=mateusloubach&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusloubach&layout=compact&langs_count=6&theme=graywhite"/>
+</div>
 
 [![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can support me by making a one-time donation via PayPal. I'll probably buy a coffee :coffee: to help me work faster.
 
