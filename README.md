@@ -17,7 +17,7 @@
 - **Full-Stack** Developer, **Software Engineering** student, and **Tech Enthusiast!** <br>
 **I** :heart: **Coding**, :art: **Design**, :musical_note: **music** and :seedling: **Gardening!**
 
-  - :man_technologist: **I'm Working with** [`reactJs`](https://reactjs.org/), [`typescript`](https://www.typescriptlang.org/), [`c#`](https://docs.microsoft.com/en-us/dotnet/csharp/), and [`.NET Core`](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
+  - :man_technologist: **I'm Working with** [`reactJs`](https://reactjs.org/), [`typescript`](https://www.typescriptlang.org/), [`c#`](https://docs.microsoft.com/en-us/dotnet/csharp/), and [`.NET`](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
   - :seedling: **I'm Learning** [`c#`](https://docs.microsoft.com/en-us/dotnet/csharp/), [`.NET Core`](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0), and [`.Net MVC5`]( https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)
   - 🤝 I'm looking to collaborate on **open source** and/or **visual** projects.
   - :label: `.react`, `.c#`, `.js`, `.ts`, `.NET`, `.html`
