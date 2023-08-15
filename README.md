@@ -10,7 +10,7 @@
 
 <!-- HEADER -->
 <h1 align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&weight=700&size=23&duration=2000&pause=1000&color=FF725E&center=true&vCenter=true&width=435&height=70&lines=Hello+World!👋🏽;Welcome+to+my+Github!">
+     <img src="https://readme-typing-svg.herokuapp.com?font=Syne+Mono&weight=700&size=23&duration=2000&pause=1000&color=FF725E&vCenter=true&width=435&height=70&lines=Hello+World!👋🏽;Welcome+to+my+Github!">
 </h1>
 
 
