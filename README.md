@@ -4,7 +4,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Github.Io-ff5757?style=flat-square&logo=vercel&logoColor=white&link=https://mateusloubach.github.io/)](https://mateusloubach.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn%20-0088cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusloubach/)](https://www.linkedin.com/in/mateusloubach/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram%20-ffdc80?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/matt_lbach/)](https://www.instagram.com/matt_lbach/) 
-![Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=00d27f&label=Visitors&label_color=%23ff5757)
+![Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=00d27f&label=Visitors&label_color=%bef9c6)
 
 
 <img align='right' width=420 src="https://websolutions593.com/wp-content/uploads/2022/05/diseno-web-local-ecuador.gif">
