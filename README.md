@@ -61,28 +61,9 @@ Hello World!👋🏽<br> Welcome to my Github!
      <img src="https://cdn-icons-png.flaticon.com/512/1051/1051377.png?w=360" alt="github21"  width="20" height="20"/>
 
 
-## 📜 Projects & Tools
 
-[<img align="left" height="94px" width="94px" alt="Canon" src="https://github.com/IndianBoyBR/IndianBoyBR/assets/27955793/cfdbeee3-50e5-45db-8a06-1c854f4b7a77"/>](https://br.medical.canon/)
-
-**Software Engineer | Front-End** \
-[**Canon Medical Systems (Brazil)**](https://br.medical.canon/) • Contract \
-Technologies: `Angular v12~v16`, `Nx Dev Tools`, `TypeScript`, `PWA` \
-Projects: Internal
-<br/>
-
-##
-
-</div>
-<!--!  <a href="https://github.com/mateusloubach">
-  <img height="290em" src="https://github-readme-stats.vercel.app/api?username=mateusloubach&show_icons=true&theme=swift&rank_icon=github&card_width=500&hide_border=true&bg_color=white&icon_color=ff5f5f&title_color=ff5f5f&text_color=2c2c2c&include_all_commits=true&hide=contribs&count_private=true"/><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusloubach&layout=compact&bg_color=white&text_color=2c2c2c&langs_count=6&theme=swift"/>-->
 <br>
 
-
-![MateusLoubach's Cactolandia Repo][readme] 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateusloubach&repo=cactolandia)](https://github.com/mateusloubach/cactolandia)
-  
 [![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can support me by making a one-time donation via PayPal. I'll probably buy a coffee :coffee: to help me work faster.
 
 <!--![Profile Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=ffdc80)-->
