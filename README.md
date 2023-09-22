@@ -1,6 +1,7 @@
 <h1>Mateus Cesar Loubach</h1>
 
 [streak]: https://streak-stats.demolab.com?user=mateusloubach&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=750
+[readme]: https://github-readme-stats.vercel.app/api/pin/?username=mateusloubach&repo=cactolandia
 [![Portfolio Badge](https://img.shields.io/badge/-Github.Io-ff5757?style=flat-square&logo=vercel&logoColor=white&link=https://mateusloubach.github.io/)](https://mateusloubach.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn%20-0088cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusloubach/)](https://www.linkedin.com/in/mateusloubach/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram%20-ffdc80?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/matt_lbach/)](https://www.instagram.com/matt_lbach/) 
@@ -51,7 +52,7 @@ Hello World!👋🏽<br> Welcome to my Github!
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Electronic-Arts-Logo.svg" alt="EA" width="20" height="20"/> in *Jan* 2020<br>
 
 - **Sillicon Valley WCo "Artificial Inteligence" Course Winner!** *sponsored by* <a href="https://www.startse.com/">.StartSe</a>
-<img src="https://login.startse.com/img/startse-logo.svg" alt=".StartSe" width="50" height="20"/>in *Jan* 2020<br>
+<img src="https://login.startse.com/img/startse-logo.svg" alt=".StartSe" width="50" height="20"/> in *Jan* 2020<br>
 
 - **Adobe XD: UX Week Bootcamp!** *sponsored by* <a href="https://www.adobe.com/">Adobe </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png" alt="AdobeXD" width="20" height="20"/> in **Feb** 2020
@@ -59,8 +60,18 @@ Hello World!👋🏽<br> Welcome to my Github!
 - **Skyline2021**: VR ready, *created by* <a href="https://skyline.github.com/mateusloubach/2021">GitHub </a>
      <img src="https://cdn-icons-png.flaticon.com/512/1051/1051377.png?w=360" alt="github21"  width="20" height="20"/>
 
-##
 
+## 📜 Projects & Tools
+
+[<img align="left" height="94px" width="94px" alt="Canon" src="https://github.com/IndianBoyBR/IndianBoyBR/assets/27955793/cfdbeee3-50e5-45db-8a06-1c854f4b7a77"/>](https://br.medical.canon/)
+
+**Software Engineer | Front-End** \
+[**Canon Medical Systems (Brazil)**](https://br.medical.canon/) • Contract \
+Technologies: `Angular v12~v16`, `Nx Dev Tools`, `TypeScript`, `PWA` \
+Projects: Internal
+<br/>
+
+##
 
 </div>
 <!--!  <a href="https://github.com/mateusloubach">
@@ -68,6 +79,8 @@ Hello World!👋🏽<br> Welcome to my Github!
 <br>
 
 
+![MateusLoubach's Cactolandia Repo][readme] 
+  
 [![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can support me by making a one-time donation via PayPal. I'll probably buy a coffee :coffee: to help me work faster.
 
 <!--![Profile Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=ffdc80)-->
