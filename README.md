@@ -1,7 +1,7 @@
 <h1>Mateus Cesar Loubach</h1>
 
 [streak]: https://streak-stats.demolab.com?user=mateusloubach&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=750
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-ff5757?style=flat-square&logo=vercel&logoColor=white&link=https://mateusloubach.github.io/)](https://mateusloubach.github.io/) 
+[![Portfolio Badge](https://img.shields.io/badge/-Github.Io-ff5757?style=flat-square&logo=vercel&logoColor=white&link=https://mateusloubach.github.io/)](https://mateusloubach.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn%20-0088cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusloubach/)](https://www.linkedin.com/in/mateusloubach/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram%20-ffdc80?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/matt_lbach/)](https://www.instagram.com/matt_lbach/) 
 ![Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=00d27f&label=Visitors&label_color=%23ff5757)
