@@ -80,6 +80,8 @@ Projects: Internal
 
 
 ![MateusLoubach's Cactolandia Repo][readme] 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateusloubach&repo=cactolandia)](https://github.com/mateusloubach/cactolandia)
   
 [![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can support me by making a one-time donation via PayPal. I'll probably buy a coffee :coffee: to help me work faster.
 
