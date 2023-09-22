@@ -1,11 +1,10 @@
-# Mateus Cesar Loubach
+<h1>Mateus Cesar Loubach</h1>
+
 [streak]: https://streak-stats.demolab.com?user=mateusloubach&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=750
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn%20-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusloubach/)](https://www.linkedin.com/in/mateusloubach/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-ff5e5b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusloubach@hotmail.com)](mailto:mateusloubach@hotmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-ff5757?style=flat-square&logo=vercel&logoColor=white&link=https://mateusloubach.github.io/)](https://mateusloubach.github.io/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn%20-0088cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusloubach/)](https://www.linkedin.com/in/mateusloubach/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram%20-ffdc80?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/matt_lbach/)](https://www.instagram.com/matt_lbach/) 
-![Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=00d27f&label=Visitors)
-<!--[![Behance Badge](https://img.shields.io/badge/Behance-0088cc?style=flat-square&logo=Behance&link=https://www.behance.net/mateusloubach)](https://www.behance.net/mateusloubach)-->
-<!-- <a href="https://www.linkedin.com/in/mateusloubach/"><img alt="Mateus Loubach" src="https://img.shields.io/badge/-mateusloubach-8257E5?style=flat&logo=Linkedin&logoColor=white" /></a> -->
+![Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=00d27f&label=Visitors&label_color=%23ff5757)
 
 
 <img align='right' width=420 src="https://websolutions593.com/wp-content/uploads/2022/05/diseno-web-local-ecuador.gif">
