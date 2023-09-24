@@ -62,6 +62,14 @@ Hello World!👋🏽<br> Welcome to my Github!
 
 
 
+**Next Level Week**  <a href="https://rocketseat.com.br/">@Rocketseat</a> :rocket:
+ - :recycle: **eColeta** - é um app que conecta entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar 
+ seus resíduos de maneira ecológica.
+ Projeto desenvolvido durante a **NLW #1** de *01 a 07 de Junho*.
+ - :mortar_board: **Proffy** - é uma aplicação web cujo objetivo é conectar pessoas que querem dar aulas particulares à pessoas que precisam delas. 
+ Projeto desenvolvido durante a **NLW #2** de *04 a 08 de Agosto*.
+ - :smiley: **hAppy** - Este projeto tem como objetivo conectar pessoas a orfanatos, trazendo felicidade para crianças de toda a região. Projeto desenvolvido durante a **NLW #3** de *12 a 16 de Outubro*.
+
 <br>
 
 [![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can support me by making a one-time donation via PayPal. I'll probably buy a coffee :coffee: to help me work faster.
