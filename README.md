@@ -1,4 +1,4 @@
-<h1>Mateus Cesar Loubach</h1>
+<img width=100% title="header" alt="Mateus Cesar Loubach" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,24,29&height=170&section=header&text=Mateus%20Loubach&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 [streak]: https://streak-stats.demolab.com?user=mateusloubach&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=750
 [readme]: https://github-readme-stats.vercel.app/api/pin/?username=mateusloubach&repo=cactolandia
@@ -82,3 +82,5 @@ Hello World!👋🏽<br> Welcome to my Github!
 <h3 align="right">Thanks :heart:
     
 Made by [Mateus Loubach](https://github.com/mateusloubach)
+
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,24,29&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
