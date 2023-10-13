@@ -10,10 +10,10 @@
 
 <img align='right' width=420 src="https://websolutions593.com/wp-content/uploads/2022/05/diseno-web-local-ecuador.gif">
 
-<!-- HEADER -->
+<!-- HEADER 
 <h3 align="center">
 Hello World!👋🏽<br> Welcome to my Github!
-</h3>
+</h3> -->
 
 
 
@@ -60,7 +60,7 @@ Hello World!👋🏽<br> Welcome to my Github!
 - **Skyline2021**: VR ready, *created by* <a href="https://skyline.github.com/mateusloubach/2021">GitHub </a>
      <img src="https://cdn-icons-png.flaticon.com/512/1051/1051377.png?w=360" alt="github21"  width="20" height="20"/>
 
-
+<!-- 
 
 **Next Level Week**  <a href="https://rocketseat.com.br/">@Rocketseat</a> :rocket:
  - :recycle: **eColeta** - é um app que conecta entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar 
@@ -69,6 +69,7 @@ Hello World!👋🏽<br> Welcome to my Github!
  - :mortar_board: **Proffy** - é uma aplicação web cujo objetivo é conectar pessoas que querem dar aulas particulares à pessoas que precisam delas. 
  Projeto desenvolvido durante a **NLW #2** de *04 a 08 de Agosto*.
  - :smiley: **hAppy** - Este projeto tem como objetivo conectar pessoas a orfanatos, trazendo felicidade para crianças de toda a região. Projeto desenvolvido durante a **NLW #3** de *12 a 16 de Outubro*.
+-->
 
 <br>
 
