@@ -79,7 +79,7 @@ Hello World!👋🏽<br> Welcome to my Github!
 
 
 
-<h3 align="right">Thanks :heart:
+<div align="right">Thanks :heart:
     
 Made by [Mateus Loubach](https://github.com/mateusloubach)
 
