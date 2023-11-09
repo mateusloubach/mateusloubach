@@ -69,6 +69,11 @@ Hello World!👋🏽<br> Welcome to my Github!
  Projeto desenvolvido durante a **NLW #2** de *04 a 08 de Agosto*.
  - :smiley: **hAppy** - Este projeto tem como objetivo conectar pessoas a orfanatos, trazendo felicidade para crianças de toda a região. Projeto desenvolvido durante a **NLW #3** de *12 a 16 de Outubro*.
 -->
+<br>
+
+&nbsp;<div align="center">
+[![Spotify](https://novatorem-phi-dun.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mcloubach)
+</div>
 
 <br>
 
