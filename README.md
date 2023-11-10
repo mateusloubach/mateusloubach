@@ -81,8 +81,6 @@ Hello World!👋🏽<br> Welcome to my Github!
 
 <!--![Profile Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=ffdc80)-->
 
-
-
 <div align="right">Thanks :heart:
     
 Made by [Mateus Loubach](https://github.com/mateusloubach)
