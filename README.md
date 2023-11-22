@@ -11,7 +11,7 @@
 
 <!-- HEADER 
 <h3 align="center">
-Hello World!👋🏽<br> Welcome to my Github!
+Hello World!👋🏽<br> Welcome to my Github
 </h3> -->
 
 
