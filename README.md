@@ -45,31 +45,7 @@ Hello World!👋🏽<br> Welcome to my Github""
     
 </div>
 
-## ⭐: Achievements:
 
-- **IronHack Sims Scholarship Winner!**   *sponsored by* <a href="https://www.ea.com/">Electronic Arts </a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Electronic-Arts-Logo.svg" alt="EA" width="20" height="20"/> in *Jan* 2020<br>
-
-- **Sillicon Valley WCo "Artificial Inteligence" Course Winner!** *sponsored by* <a href="https://www.startse.com/">.StartSe</a>
-<img src="https://login.startse.com/img/startse-logo.svg" alt=".StartSe" width="50" height="20"/> in *Jan* 2020<br>
-
-- **Adobe XD: UX Week Bootcamp!** *sponsored by* <a href="https://www.adobe.com/">Adobe </a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png" alt="AdobeXD" width="20" height="20"/> in **Feb** 2020
-  
-- **Skyline2021**: VR ready, *created by* <a href="https://skyline.github.com/mateusloubach/2021">GitHub </a>
-     <img src="https://cdn-icons-png.flaticon.com/512/1051/1051377.png?w=360" alt="github21"  width="20" height="20"/>
-
-<!-- 
-
-**Next Level Week**  <a href="https://rocketseat.com.br/">@Rocketseat</a> :rocket:
- - :recycle: **eColeta** - é um app que conecta entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar 
- seus resíduos de maneira ecológica.
- Projeto desenvolvido durante a **NLW #1** de *01 a 07 de Junho*.
- - :mortar_board: **Proffy** - é uma aplicação web cujo objetivo é conectar pessoas que querem dar aulas particulares à pessoas que precisam delas. 
- Projeto desenvolvido durante a **NLW #2** de *04 a 08 de Agosto*.
- - :smiley: **hAppy** - Este projeto tem como objetivo conectar pessoas a orfanatos, trazendo felicidade para crianças de toda a região. Projeto desenvolvido durante a **NLW #3** de *12 a 16 de Outubro*.
--->
-<br>
 
 &nbsp;<div align="center">
 [![Spotify](https://novatorem-phi-dun.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mcloubach)
