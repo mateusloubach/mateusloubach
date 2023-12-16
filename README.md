@@ -3,7 +3,7 @@
 [readme]: https://github-readme-stats.vercel.app/api/pin/?username=mateusloubach&repo=cactolandia
 [![Portfolio Badge](https://img.shields.io/badge/-Github.Io-ff5757?style=flat-square&logo=vercel&logoColor=white&link=https://mateusloubach.github.io/)](https://mateusloubach.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn%20-0088cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusloubach/)](https://www.linkedin.com/in/mateusloubach/) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram%20-ffdc80?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/matt_lbach/)](https://www.instagram.com/matt_lbach/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram%20-ffdc80?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateuscloubach/)](https://www.instagram.com/mateuscloubach/) 
 ![Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=00d27f&label=Visitors&label_color=%bef9c6)
 
 <img align='right' width=420 src="https://websolutions593.com/wp-content/uploads/2022/05/diseno-web-local-ecuador.gif">
@@ -19,8 +19,8 @@ Hello World!👋🏽<br> Welcome to my Github""
 - **Full-Stack** Developer, **Software Engineering** student, and **Tech Enthusiast!** <br>
 **I** :heart: **Coding**, :art: **Design**, :musical_note: **music** and :seedling: **Gardening!**
 
-  - :man_technologist: **I'm Working with** [`reactJs`](https://reactjs.org/), [`typescript`](https://www.typescriptlang.org/), [`c#`](https://docs.microsoft.com/en-us/dotnet/csharp/) & [`.NET`](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
-  - :seedling: **I'm Learning** [`c#`](https://docs.microsoft.com/en-us/dotnet/csharp/), [`.NET Core`](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0), and [`.Net MVC5`]( https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)
+  - :man_technologist: **I'm Working with** [`reactJs`](https://reactjs.org/), [`typescript`](https://www.typescriptlang.org/), [`nextJs`](https://nextjs.org/), [`c#`](https://docs.microsoft.com/en-us/dotnet/csharp/) & [`.NET`](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
+  - :seedling: **I'm Learning** [`c#`](https://docs.microsoft.com/en-us/dotnet/csharp/), [`nextJs`](https://nextjs.org/), and [`.NET Core`](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
   - 🤝 Looking to collaborate on **open source**/**visual** projects.
   - :label: `.react`, `.c#`, `.js`, `.ts`, `.NET`, `.html`
   - :round_pushpin: **Belo Horizonte** :brazil:
