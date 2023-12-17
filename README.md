@@ -1,10 +1,10 @@
 
 [streak]: https://streak-stats.demolab.com?user=mateusloubach&theme=blood&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=750
 [readme]: https://github-readme-stats.vercel.app/api/pin/?username=mateusloubach&repo=cactolandia
-[![Portfolio Badge](https://img.shields.io/badge/-Github.Io-ff5757?style=flat-square&logo=vercel&logoColor=white&link=https://mateusloubach.github.io/)](https://mateusloubach.github.io/) 
+[![Portfolio Badge](https://img.shields.io/badge/-Github.Io-252131?style=flat-square&logo=vercel&logoColor=white&link=https://mateusloubach.github.io/)](https://mateusloubach.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn%20-0088cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusloubach/)](https://www.linkedin.com/in/mateusloubach/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram%20-ffdc80?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateuscloubach/)](https://www.instagram.com/mateuscloubach/) 
-![Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=00d27f&label=Visitors&label_color=%bef9c6)
+![Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=252131&label=Visitors&label_color=%bef9c6)
 
 <img align='right' width=420 src="https://websolutions593.com/wp-content/uploads/2022/05/diseno-web-local-ecuador.gif">
 
