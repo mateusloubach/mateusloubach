@@ -20,7 +20,7 @@ Hello World!👋🏽<br> Welcome to my Github""
 **I** :heart: **Coding**, :art: **Design**, :musical_note: **music** and :seedling: **Gardening!**
 
   - :man_technologist: **I'm Working with** [`reactJs`](https://reactjs.org/), [`typescript`](https://www.typescriptlang.org/), [`nextJs`](https://nextjs.org/), [`c#`](https://docs.microsoft.com/en-us/dotnet/csharp/) & [`.NET`](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
-  - :seedling: **I'm Learning** [`c#`](https://docs.microsoft.com/en-us/dotnet/csharp/), [`nextJs`](https://nextjs.org/), and [`.NET Core`](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
+  - :seedling: **I'm Learning** [`c#`](https://docs.microsoft.com/en-us/dotnet/csharp/), [`.NET Core`](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0), and [`nextJs`](https://nextjs.org/)
   - 🤝 Looking to collaborate on **open source**/**visual** projects.
   - :label: working on [`alternativa-agency`](https://alternativa-agency.vercel.app/), [`unnamed project`](https://www.github.com/mateusloubach)
   - :round_pushpin: **Belo Horizonte** :brazil:
