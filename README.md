@@ -7,13 +7,8 @@
 ![Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=252131&label=Visitors&label_color=%bef9c6)
 
 <img align='right' width=420 src="https://websolutions593.com/wp-content/uploads/2022/05/diseno-web-local-ecuador.gif">
-
-<!-- HEADER 
-<h3 align="center">
-Hello World!👋🏽<br> Welcome to my Github""
-</h3> -->
-
-
+<br>
+<br>
 
 <!-- ABOUT ME -->
 - **Full-Stack** Developer, **Software Engineering** student, and **Tech Enthusiast!** <br>
