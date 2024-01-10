@@ -40,8 +40,6 @@
     
 </div>
 
-
-
 &nbsp;<div align="center">
 [![Spotify](https://novatorem-phi-dun.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/mcloubach)
 </div>
@@ -53,5 +51,6 @@
 <!--![Profile Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=ffdc80)-->
 
 <div align="right">Thanks :heart:
-    
+
+
 Made by [Mateus Loubach](https://github.com/mateusloubach)
