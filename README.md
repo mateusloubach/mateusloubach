@@ -29,11 +29,10 @@
 
 <div align="center">
 
-  
 ![MateusLoubach's GitHub Streak][streak]
-
   
 </div>
+
 
 <div align="center">
   
