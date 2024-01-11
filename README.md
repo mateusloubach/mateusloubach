@@ -28,8 +28,10 @@
 </p>
 
 <div align="center">
+
   
 ![MateusLoubach's GitHub Streak][streak]
+
   
 </div>
 
