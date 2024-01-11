@@ -33,9 +33,8 @@
   
 </div>
 
-
 <div align="center">
-  
+
   <a href="https://github.com/mateusloubach">
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=mateusloubach&show_icons=true&theme=swift&rank_icon=github&card_width=510&hide_border=true&bg_color=white&icon_color=ff5f5f&title_color=ff5f5f&text_color=686868&hide=contribs"/>
     
