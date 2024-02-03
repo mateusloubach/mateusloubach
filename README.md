@@ -8,7 +8,7 @@
 <a href="https://mateusloubach.github.io/"><img src="https://img.shields.io/badge/-mateusloubach.github.io-3423A6?style=flat-square&logo=github&logoColor=white-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mateusloubach/"><img src="https://img.shields.io/badge/-Mateus%20Cesar%20Loubach%20-0088cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusloubach/"/></a>
 <a href="https://www.instagram.com/mateuscloubach/"><img src="https://img.shields.io/badge/-@mateuscloubach_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:felipemota.rocha@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mcesarloubach@gmail.com"><img src="https://img.shields.io/badge/-mcesarloubach@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/mateusloubach"><img src="https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=252131&label=Visitors&label_color=%bef9c6"/></a>
 </p>
 
