@@ -33,9 +33,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFF?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-FFF?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-ReactJs-FFF?style=flat&logo=react)
+![Prisma](https://img.shields.io/badge/-Prisma-FFF?style=flat&logo=Prisma&logoColor=E535AB)
+![NextJs](https://img.shields.io/badge/-NextJs-FFF?style=flat&logo=next.js&logoColor=333333)
 ![Vue](https://img.shields.io/badge/-Vue-FFF?style=flat&logo=vue.js)
-![GraphQL](https://img.shields.io/badge/-GraphQL-FFF?style=flat&logo=graphql&logoColor=E535AB)
-![Jest](https://img.shields.io/badge/-Csharp-FFF?style=flat&logo=csharp&logoColor=333333)
 
 </div>
 
