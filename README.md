@@ -3,7 +3,7 @@
 [readme]: https://github-readme-stats.vercel.app/api/pin/?username=mateusloubach&repo=cactolandia
 
 
-<h1>👋 &nbsp;Olá, eu sou o Mateus, um Desenvolvedor Full Stack, apaixonado por desenvolvimento!</h1>
+
 <p align="center">
 <a href="https://www.mateusloubach.tech/"><img src="https://img.shields.io/badge/-mateusloubach.tech-3423A6?style=flat-square&logo=github&logoColor=white-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mateusloubach/"><img src="https://img.shields.io/badge/-Mateus%20Cesar%20Loubach%20-0088cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusloubach/"/></a>
