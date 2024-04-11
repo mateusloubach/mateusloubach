@@ -11,7 +11,9 @@
 <a href="https://alternativaagency.studio/"><img src="https://img.shields.io/badge/-Alternativa%20Agency-00875f?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/mateusloubach"><img src="https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=252131&label=Visitors&label_color=%bef9c6"/></a>
 </p>
-
+<p align="center"> <a href="https://github.com/mateusloubach/mateusloubach/commits/main">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/mateusloubach/mateusloubach">
+  </a> </p>
 <div align="left">
 
 ![HTML](https://img.shields.io/badge/-HTML-FFF?style=flat&logo=HTML5)
@@ -36,9 +38,6 @@
 ![GraphQL](https://img.shields.io/badge/-MSQLS-333333?style=flat&logo=microsoftsqlserver)
 </div>
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
-
-
 <div align="center">
 
 ![MateusLoubach's GitHub Streak][streak]
@@ -60,10 +59,6 @@
 [![paypal.me/mateusloubach](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mateusloubach) - You can support me by making a one-time donation via PayPal.
 
 <!--![Profile Views](https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=ffdc80)-->
-
-<p align="center"> <a href="https://github.com/mateusloubach/mateusloubach/commits/main">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/mateusloubach/mateusloubach">
-  </a> </p>
 
 <div align="right">Thanks :heart:
 
