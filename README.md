@@ -12,20 +12,6 @@
 <a href="https://github.com/mateusloubach"><img src="https://komarev.com/ghpvc/?username=mateusloubach&style=flat-square&color=252131&label=Visitors&label_color=%bef9c6"/></a>
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;Sobre Mim </h2>
-
-- 👨🏻‍💻 &nbsp; Desde quebrar brinquedos à remontá-los aos meus 7 anos de idade, meu interesse sempre foi sobre como funcionam as máquinas. De pequenos brinquedos à construção de bancos de dados, sempre estudava cada passo dado com o intúito de memorizar como era o progresso e baseava naquilo a reconstrução. Na programação eu encontrei razão pra tudo isso e, não com os mesmos métodos, é claro (😉), porém com a mesma finalidade, faço minha parte para salvar empresas e reconstruir sonhos. 
-
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript ([`nodeJs`](https://nodejs.org/), [`reactJs`](https://reactjs.org/) & [`nextjs`](https://nextjs.org/) ) para desenvolver em ambas as frentes.
-
-- 👾 &nbsp; Sou apaixonado por esportes, especialmente por NFL, e costumo jogar fps no meu tempo livre. É o que eu mais gosto de fazer pra me distrair e me divertir. haha!
-
-- 🪙 &nbsp; Também gosto muito de economia, do mercado financeiro e de investimentos.
-
-<h2> 🛠 &nbsp;Tech Stack</h2>
-
-<h3 align="left">💻 &nbsp;Front-End:</h3>
-
 <div align="left">
 
 ![HTML](https://img.shields.io/badge/-HTML-FFF?style=flat&logo=HTML5)
@@ -39,7 +25,6 @@
 
 </div>
 
-<h3 align="right">Back-End e DB ⚙️&nbsp;</h3>
 
 <div align="right">
 
